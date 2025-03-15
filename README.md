@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Majd khazen</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-- 🔭 I’m currently working on *My studying app*
+- 🔭 I’m currently working on *My Computer Science degree*
 
-- 🌱 I’m currently learning *Vue, and taking several front-end courses*
+- 🌱 I’m currently learning *Backend, and taking several front-end courses*
 
-- 🤝 I’m looking for help with *My blog*
-
-- 👨‍💻 All of my projects are available at [)
+- 👨‍💻 All of my projects are available at my github
 
 - 💬 Ask me about *python, c, java and c++*
 
