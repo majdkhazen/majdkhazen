@@ -16,7 +16,7 @@ I enjoy connecting algorithms to working systems: from an ESP32 maze-navigation 
 | Project | Highlights |
 | --- | --- |
 | [Maze Runner Robot](https://github.com/majdkhazen/MazeRunnerRobot) | ESP32 firmware in C++, distance sensors, motor control, Python maze planning and translation to robot actions. Team project. |
-| [C++ Data Structures](https://github.com/majdkhazen/mevni) | World Cup management with custom AVL trees; car-agency management with ranked AVL trees and union-find. |
+| [C++ Data Structures](https://github.com/majdkhazen/cpp-data-structures) | World Cup management with custom AVL trees; car-agency management with ranked AVL trees and union-find. |
 | [Machine Learning Coursework](https://github.com/majdkhazen/MachineLearning) | Python implementations of k-nearest neighbors, soft-margin SVM, and linear regression. |
 
 ## Connect
