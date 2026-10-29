@@ -23,4 +23,4 @@ I enjoy connecting algorithms to working systems: from an ESP32 maze-navigation 
 
 I'm seeking software engineering opportunities, especially in **C/C++, embedded development, and Linux systems**, with an additional interest in cybersecurity.
 
-[LinkedIn](https://www.linkedin.com/in/magd-khazen-68a6ba239/) · [Email](mailto:magdkhazen1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/majd-khazen-68a6ba239/) · [Email](mailto:magdkhazen1@gmail.com)
